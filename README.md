@@ -1,3 +1,5 @@
+![screenshot](https://github.com/Crouton-Digital/notes/blob/main/screenshot.jpg?raw=true)
+
 1. We can make osmosis frontend compatible with namada extension
 
 2. Osmosis frontend connects wallets with cosmos-kit
